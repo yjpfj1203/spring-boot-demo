@@ -1,0 +1,9 @@
+
+squid:S1488±"bImmediately return this expression instead of assigning it to the temporary variable "resutlList".(‡Ý›Õüÿÿÿÿ
+`squid:UselessImportCheck"<Remove this unused import 'com.elasticsearch.entity.OptLog'.(©Üˆé
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+rsquid:S4144O"VUpdate this method so that its implementation is not identical to "insert" on line 56.(ìÖë¶þÿÿÿÿ
+Wsquid:S46848"@Replace this persistent entity with a simple POJO or DTO object.(£„œ¦
+\squid:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(ìÖë¶þÿÿÿÿ
+asquid:CallToDeprecatedMethod©"3Remove this use of "PageRequest"; it is deprecated.(ð‰¾¾ÿÿÿÿÿ
+csquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(±²¹ã

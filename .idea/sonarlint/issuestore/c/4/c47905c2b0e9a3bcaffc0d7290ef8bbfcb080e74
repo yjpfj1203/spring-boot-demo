@@ -1,0 +1,9 @@
+
+xsquid:S1488n"bImmediately return this expression instead of assigning it to the temporary variable "resutlList".(‡€Å2
+tsquid:S4144"WUpdate this method so that its implementation is not identical to "insert" on line 121.(¬Ñúãûÿÿÿÿ
+usquid:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(û³»ğùÿÿÿÿ
+[squid:CallToDeprecatedMethodc"3Remove this use of "PageRequest"; it is deprecated.(Á·á×
+Wsquid:S4684y"@Replace this persistent entity with a simple POJO or DTO object.(ğ”Öğ
+]squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¬Ñúãûÿÿÿÿ
+bsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(•Âˆœ
+gsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(–Ï³Ìúÿÿÿÿ
